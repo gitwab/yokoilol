@@ -1,2 +1,2 @@
 local TeleportService = game:GetService("TeleportService")
-TeleportService:Teleport(10055987873)
+TeleportService:Teleport(117490312521238)
